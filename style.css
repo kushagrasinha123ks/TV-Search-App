@@ -1,0 +1,19 @@
+#cnt-img{
+    width: 50vh;
+    height: auto;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#cnt-details{
+    margin: 2px;
+    padding: 2px;
+}
+
+#iconGlass{
+    width: 8vw;
+    height: auto;
+    position: relative;
+    bottom: 5px;
+    border-radius: 20px;
+}
