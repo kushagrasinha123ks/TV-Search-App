@@ -1,6 +1,6 @@
 ## TV Search Application
 
-Developed responsive web-application using TVMaze API, Bootstrap5 and jQuery to search TV-Shows.
+Developed responsive web-application using TVMaze API, Bootstrap5, AJAX and jQuery to search TV-Shows.
 
 ## MIT License
 
